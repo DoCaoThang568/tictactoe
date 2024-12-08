@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thang\\Desktop\\Tic-Tac-Toe-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B3E0D2-6217-493A-A690-158C497F5318}|Tictactoe_contract\\Tictactoe_contract.csproj|c:\\users\\thang\\desktop\\tic-tac-toe-master\\tictactoe_contract\\ctictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B3E0D2-6217-493A-A690-158C497F5318}|Tictactoe_contract\\Tictactoe_contract.csproj|solutionrelative:tictactoe_contract\\ctictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTictactoe.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\Desktop\\Tic-Tac-Toe-master\\Tictactoe_contract\\CTictactoe.cs",
+              "RelativeDocumentMoniker": "Tictactoe_contract\\CTictactoe.cs",
+              "ToolTip": "C:\\Users\\thang\\Desktop\\Tic-Tac-Toe-master\\Tictactoe_contract\\CTictactoe.cs",
+              "RelativeToolTip": "Tictactoe_contract\\CTictactoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:55:42.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
